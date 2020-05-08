@@ -1,3 +1,3 @@
-module github.com/gertd/go-pluralize
+module github.com/web-ridge/go-pluralize
 
-go 1.13
+go 1.14

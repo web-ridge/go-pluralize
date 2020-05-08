@@ -36,7 +36,7 @@ VERSION    :=`git describe --tags 2>/dev/null`
 COMMIT     :=`git rev-parse --short HEAD 2>/dev/null`
 DATE       :=`date "+%FT%T%z"`
 
-LDBASE     := github.com/gertd/go-pluralize/pkg/version
+LDBASE     := github.com/web-ridge/go-pluralize/pkg/version
 LDFLAGS    := -ldflags "-w -s -X $(LDBASE).version=${VERSION} -X $(LDBASE).date=${DATE} -X $(LDBASE).commit=${COMMIT}"
 
 BINARY := pluralize

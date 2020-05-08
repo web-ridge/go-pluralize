@@ -1,6 +1,6 @@
 # Forked to fix version issues
 
-https://github.com/web-ridge/go-pluralize/issues/9
+https://github.com/gertd/go-pluralize/issues/9
 
 # go-pluralize
 

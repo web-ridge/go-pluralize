@@ -35,7 +35,7 @@ To install the go module:
 
 To lock down a specific the version:
 
-    go get -u github.com/web-ridge/go-pluralize@0.1.2
+    go get -u github.com/web-ridge/go-pluralize@0.1.5
 
 Download the sources and binaries from the latest [release](https://github.com/web-ridge/go-pluralize/releases/latest)
 
